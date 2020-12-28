@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{626A1A69-8D38-4260-9F11-958989C3EE49}</ProjectGuid>
+    <ProjectGuid>{BEEAD056-3ACC-422E-93BF-7A1DF3CEC23A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WindowsHelper</RootNamespace>
-    <AssemblyName>WindowsHelper</AssemblyName>
+    <RootNamespace>TestConsole</RootNamespace>
+    <AssemblyName>TestConsole</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -6,3 +6,7 @@
 /WtsApi32Helper/bin
 /ExecuteHelper/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 /.vs/WindowsHelper/v16/.suo
+/RegistryHelper/obj
+/RegistryHelper/bin
+/TestConsole/obj
+/TestConsole/bin

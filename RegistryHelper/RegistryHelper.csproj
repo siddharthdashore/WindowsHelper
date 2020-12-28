@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A42782A-A18D-4C5C-BDD8-54E736A274D2}</ProjectGuid>
+    <ProjectGuid>{626A1A69-8D38-4260-9F11-958989C3EE49}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>WtsApi32Helper</RootNamespace>
-    <AssemblyName>WtsApi32Helper</AssemblyName>
+    <RootNamespace>WindowsHelper</RootNamespace>
+    <AssemblyName>WindowsHelper</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
